@@ -5,7 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff92a93-1bfa-4187-8db4-477c686c5b7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/.vite/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/1-DusvRNT-.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/2-CaChSjw3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/AuthAdmin-C0LtMP1Y.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/AuthDriver-BkeDdq88.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/AuthDriver-DONLjad0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/AuthFactory-8BtwKDcT.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/AuthFactory-dFxP9IR1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/AuthUser-2nsAR8SJ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/CertificateReview-BM7BB9of.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/CertificateReview-C2J3JW5g.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/CertificatesPage-CZdfhjBC.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/CertificatesPage-Cr8rKt8g.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/OrderView-RwgGOPSp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/OrderView-ZBrBfO82.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/WelcomeView-CScBQNyC.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/WelcomeView-DY5WNjFt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/app-CDX-bsKg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/app-CezA3Axa.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/city-DTEyJx_W.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/illustration-GcuUyrN5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/logo 2-BkhUUQeh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/public/build/assets/logo 2-tjpahDsw.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +234,7 @@
       <workItem from="1747351772842" duration="12846000" />
       <workItem from="1747827012661" duration="2038000" />
       <workItem from="1747878957352" duration="25365000" />
-      <workItem from="1747910536899" duration="2253000" />
+      <workItem from="1747910536899" duration="3115000" />
     </task>
     <servers />
   </component>
