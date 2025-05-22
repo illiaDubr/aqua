@@ -1,0 +1,130 @@
+{
+  "_logo2-C9_EOzWr.js": {
+    "file": "assets/logo2-C9_EOzWr.js",
+    "name": "logo2",
+    "assets": [
+      "assets/logo2-tjpahDsw.png"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BF23kVsW.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/views/WelcomeView.vue",
+      "resources/js/views/AuthUser.vue",
+      "resources/js/views/AuthDriver.vue",
+      "resources/js/views/AuthFactory.vue",
+      "resources/js/views/AuthAdmin.vue",
+      "resources/js/views/OrderView.vue",
+      "resources/js/views/CertificatesPage.vue",
+      "resources/js/views/CertificateReview.vue"
+    ],
+    "css": [
+      "assets/app-DttIO0We.css"
+    ]
+  },
+  "resources/js/assets/1.png": {
+    "file": "assets/1-DusvRNT-.png",
+    "src": "resources/js/assets/1.png"
+  },
+  "resources/js/assets/2.png": {
+    "file": "assets/2-CaChSjw3.png",
+    "src": "resources/js/assets/2.png"
+  },
+  "resources/js/assets/illustration.png": {
+    "file": "assets/illustration-GcuUyrN5.png",
+    "src": "resources/js/assets/illustration.png"
+  },
+  "resources/js/assets/logo2.png": {
+    "file": "assets/logo2-tjpahDsw.png",
+    "src": "resources/js/assets/logo2.png"
+  },
+  "resources/js/views/AuthAdmin.vue": {
+    "file": "assets/AuthAdmin-gthdtZiz.js",
+    "name": "AuthAdmin",
+    "src": "resources/js/views/AuthAdmin.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_logo2-C9_EOzWr.js"
+    ]
+  },
+  "resources/js/views/AuthDriver.vue": {
+    "file": "assets/AuthDriver-CfiNCaKZ.js",
+    "name": "AuthDriver",
+    "src": "resources/js/views/AuthDriver.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_logo2-C9_EOzWr.js"
+    ]
+  },
+  "resources/js/views/AuthFactory.vue": {
+    "file": "assets/AuthFactory-D8HYq97p.js",
+    "name": "AuthFactory",
+    "src": "resources/js/views/AuthFactory.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_logo2-C9_EOzWr.js"
+    ],
+    "css": [
+      "assets/AuthFactory-De_FrpFy.css"
+    ]
+  },
+  "resources/js/views/AuthUser.vue": {
+    "file": "assets/AuthUser-BLfO1Q9O.js",
+    "name": "AuthUser",
+    "src": "resources/js/views/AuthUser.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_logo2-C9_EOzWr.js"
+    ]
+  },
+  "resources/js/views/CertificateReview.vue": {
+    "file": "assets/CertificateReview-CaxJwND0.js",
+    "name": "CertificateReview",
+    "src": "resources/js/views/CertificateReview.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/CertificatesPage.vue": {
+    "file": "assets/CertificatesPage-CVOSsCXM.js",
+    "name": "CertificatesPage",
+    "src": "resources/js/views/CertificatesPage.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/OrderView.vue": {
+    "file": "assets/OrderView-CepbbUAf.js",
+    "name": "OrderView",
+    "src": "resources/js/views/OrderView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "assets": [
+      "assets/1-DusvRNT-.png",
+      "assets/2-CaChSjw3.png"
+    ]
+  },
+  "resources/js/views/WelcomeView.vue": {
+    "file": "assets/WelcomeView-jYGIeP3X.js",
+    "name": "WelcomeView",
+    "src": "resources/js/views/WelcomeView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "assets": [
+      "assets/illustration-GcuUyrN5.png"
+    ]
+  }
+}
