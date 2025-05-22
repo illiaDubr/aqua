@@ -1,13 +1,13 @@
 {
-  "_logo 2-Dah5_7DD.js": {
-    "file": "assets/logo 2-Dah5_7DD.js",
+  "_logo 2-BkhUUQeh.js": {
+    "file": "assets/logo 2-BkhUUQeh.js",
     "name": "logo 2",
     "assets": [
       "assets/logo 2-tjpahDsw.png"
     ]
   },
   "resources/js/app.js": {
-    "file": "assets/app-BQEM2mOV.js",
+    "file": "assets/app-CDX-bsKg.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,
@@ -22,7 +22,7 @@
       "resources/js/views/CertificateReview.vue"
     ],
     "css": [
-      "assets/app-CAKhZ_dT.css"
+      "assets/app-CezA3Axa.css"
     ],
     "assets": [
       "assets/city-DTEyJx_W.png"
@@ -49,65 +49,65 @@
     "src": "resources/js/assets/logo 2.png"
   },
   "resources/js/views/AuthAdmin.vue": {
-    "file": "assets/AuthAdmin-DTDE3guU.js",
+    "file": "assets/AuthAdmin-C0LtMP1Y.js",
     "name": "AuthAdmin",
     "src": "resources/js/views/AuthAdmin.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.js",
-      "_logo 2-Dah5_7DD.js"
+      "_logo 2-BkhUUQeh.js"
     ],
     "css": [
-      "assets/AuthDriver-BOQktMnh.css"
+      "assets/AuthDriver-DONLjad0.css"
     ],
     "assets": [
       "assets/city-DTEyJx_W.png"
     ]
   },
   "resources/js/views/AuthDriver.vue": {
-    "file": "assets/AuthDriver-Dc2Be_pm.js",
+    "file": "assets/AuthDriver-BkeDdq88.js",
     "name": "AuthDriver",
     "src": "resources/js/views/AuthDriver.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.js",
-      "_logo 2-Dah5_7DD.js"
+      "_logo 2-BkhUUQeh.js"
     ],
     "css": [
-      "assets/AuthDriver-BOQktMnh.css"
+      "assets/AuthDriver-DONLjad0.css"
     ],
     "assets": [
       "assets/city-DTEyJx_W.png"
     ]
   },
   "resources/js/views/AuthFactory.vue": {
-    "file": "assets/AuthFactory-DUCScqnZ.js",
+    "file": "assets/AuthFactory-dFxP9IR1.js",
     "name": "AuthFactory",
     "src": "resources/js/views/AuthFactory.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.js",
-      "_logo 2-Dah5_7DD.js"
+      "_logo 2-BkhUUQeh.js"
     ],
     "css": [
-      "assets/AuthFactory-BUdkkoW0.css"
+      "assets/AuthFactory-8BtwKDcT.css"
     ],
     "assets": [
       "assets/city-DTEyJx_W.png"
     ]
   },
   "resources/js/views/AuthUser.vue": {
-    "file": "assets/AuthUser-ChQvTRF2.js",
+    "file": "assets/AuthUser-2nsAR8SJ.js",
     "name": "AuthUser",
     "src": "resources/js/views/AuthUser.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.js",
-      "_logo 2-Dah5_7DD.js"
+      "_logo 2-BkhUUQeh.js"
     ]
   },
   "resources/js/views/CertificateReview.vue": {
-    "file": "assets/CertificateReview-5_RjaE_W.js",
+    "file": "assets/CertificateReview-BM7BB9of.js",
     "name": "CertificateReview",
     "src": "resources/js/views/CertificateReview.vue",
     "isDynamicEntry": true,
@@ -119,7 +119,7 @@
     ]
   },
   "resources/js/views/CertificatesPage.vue": {
-    "file": "assets/CertificatesPage-B75gbKmG.js",
+    "file": "assets/CertificatesPage-CZdfhjBC.js",
     "name": "CertificatesPage",
     "src": "resources/js/views/CertificatesPage.vue",
     "isDynamicEntry": true,
@@ -127,14 +127,14 @@
       "resources/js/app.js"
     ],
     "css": [
-      "assets/CertificatesPage-BSfsHkAy.css"
+      "assets/CertificatesPage-Cr8rKt8g.css"
     ],
     "assets": [
       "assets/city-DTEyJx_W.png"
     ]
   },
   "resources/js/views/OrderView.vue": {
-    "file": "assets/OrderView-Cbp0NpYR.js",
+    "file": "assets/OrderView-ZBrBfO82.js",
     "name": "OrderView",
     "src": "resources/js/views/OrderView.vue",
     "isDynamicEntry": true,
@@ -151,7 +151,7 @@
     ]
   },
   "resources/js/views/WelcomeView.vue": {
-    "file": "assets/WelcomeView-BauEQFkD.js",
+    "file": "assets/WelcomeView-DY5WNjFt.js",
     "name": "WelcomeView",
     "src": "resources/js/views/WelcomeView.vue",
     "isDynamicEntry": true,
