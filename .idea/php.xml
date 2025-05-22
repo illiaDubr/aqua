@@ -128,9 +128,10 @@
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/sebastian/exporter" />
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/sebastian/code-unit-reverse-lookup" />
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/laravel/sanctum" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.4">
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2">
     <option name="suggestChangeDefaultLanguageLevel" value="false" />
   </component>
   <component name="PhpStanOptionsConfiguration">
