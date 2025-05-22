@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff92a93-1bfa-4187-8db4-477c686c5b7c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aqua-taxi/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/docker/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/docker/nginx/default.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +213,7 @@
       <workItem from="1744814795067" duration="4911000" />
       <workItem from="1747351772842" duration="12846000" />
       <workItem from="1747827012661" duration="2038000" />
-      <workItem from="1747878957352" duration="13245000" />
+      <workItem from="1747878957352" duration="20751000" />
     </task>
     <servers />
   </component>
