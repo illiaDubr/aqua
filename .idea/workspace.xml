@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff92a93-1bfa-4187-8db4-477c686c5b7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/.env" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aqua-taxi/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/database/migrations/2025_04_14_230016_create_orders_table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/resources/js/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/resources/js/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/resources/js/views/AuthDriver.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/resources/js/views/AuthDriver.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/resources/views/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +160,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/User/PhpstormProjects/aqua/aqua-taxi",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -232,7 +220,7 @@
       <workItem from="1748182982343" duration="1203000" />
       <workItem from="1748237484461" duration="10000" />
       <workItem from="1748258650911" duration="624000" />
-      <workItem from="1748333532594" duration="12098000" />
+      <workItem from="1748333532594" duration="12719000" />
     </task>
     <servers />
   </component>
