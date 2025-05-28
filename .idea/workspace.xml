@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff92a93-1bfa-4187-8db4-477c686c5b7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -220,7 +219,7 @@
       <workItem from="1748182982343" duration="1203000" />
       <workItem from="1748237484461" duration="10000" />
       <workItem from="1748258650911" duration="624000" />
-      <workItem from="1748333532594" duration="12902000" />
+      <workItem from="1748333532594" duration="13092000" />
     </task>
     <servers />
   </component>
