@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff92a93-1bfa-4187-8db4-477c686c5b7c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9d56a0f5-85a9-4bc8-b6e9-7398f368edac.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9d56a0f5-85a9-4bc8-b6e9-7398f368edac.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/resources/js/views/OrderForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/resources/js/views/OrderForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +152,20 @@
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/graham-campbell/result-type" />
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/nunomaduro/termwind" />
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/clue/redis-protocol" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/pusher/pusher-php-server" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/clue/redis-react" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/ratchet/rfc6455" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/laravel/reverb" />
     </include_path>
   </component>
   <component name="ProjectColorInfo">{
@@ -155,32 +176,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/User/PhpstormProjects/aqua/aqua-taxi",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Dev\\PhpStorm 2024.3.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PhpstormProjects/aqua/aqua-taxi/resources/js/assets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Dev\\PhpStorm 2024.3.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PhpstormProjects\aqua\aqua-taxi\resources\js\assets" />
       <recent name="C:\Users\User\PhpstormProjects\aqua\aqua-taxi" />
       <recent name="C:\Users\User\PhpstormProjects\aqua\aqua-taxi\resources\views" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PhpstormProjects\aqua\aqua-taxi" />
       <recent name="C:\Users\User\PhpstormProjects\aqua\aqua-taxi\public\build" />
       <recent name="C:\Users\User\PhpstormProjects\aqua\aqua-taxi\resources\js\assets" />
       <recent name="C:\Users\User\PhpstormProjects\aqua\aqua-taxi\resources\js\view" />
@@ -189,6 +212,12 @@
   <component name="RunManager">
     <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner configuration_file="$PROJECT_DIR$/aqua-taxi/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
       <method v="2" />
     </configuration>
   </component>
@@ -219,11 +248,60 @@
       <workItem from="1748182982343" duration="1203000" />
       <workItem from="1748237484461" duration="10000" />
       <workItem from="1748258650911" duration="624000" />
-      <workItem from="1748333532594" duration="13092000" />
+      <workItem from="1748333532594" duration="21594000" />
+      <workItem from="1748480270488" duration="16244000" />
+      <workItem from="1748504874448" duration="7200000" />
+      <workItem from="1748585199458" duration="57696000" />
+      <workItem from="1748930909320" duration="12167000" />
+      <workItem from="1749105078002" duration="21822000" />
+      <workItem from="1749194338590" duration="3053000" />
+      <workItem from="1749215777391" duration="6000" />
+      <workItem from="1749391085690" duration="1461000" />
+      <workItem from="1749458849936" duration="7000" />
+      <workItem from="1749470868116" duration="1668000" />
+      <workItem from="1749564318486" duration="4000" />
+      <workItem from="1749591754727" duration="1851000" />
+      <workItem from="1749672293090" duration="4707000" />
+      <workItem from="1749764721362" duration="592000" />
+      <workItem from="1749821169790" duration="20975000" />
+      <workItem from="1749913446147" duration="2809000" />
+      <workItem from="1750238860998" duration="4887000" />
+      <workItem from="1750459314892" duration="9497000" />
+      <workItem from="1750600491605" duration="4517000" />
+      <workItem from="1750643045543" duration="5000" />
+      <workItem from="1751270126932" duration="1362000" />
+      <workItem from="1751272255075" duration="568000" />
+      <workItem from="1751275144809" duration="5056000" />
+      <workItem from="1751356392903" duration="11326000" />
+      <workItem from="1751475788404" duration="156000" />
+      <workItem from="1751532972076" duration="9016000" />
+      <workItem from="1751826845947" duration="2000" />
+      <workItem from="1751959721221" duration="4714000" />
+      <workItem from="1752086583187" duration="4000" />
+      <workItem from="1752251370684" duration="10984000" />
+      <workItem from="1752414054348" duration="6223000" />
+      <workItem from="1753029757443" duration="3000" />
+      <workItem from="1754855540089" duration="26000" />
+      <workItem from="1755909091456" duration="6552000" />
+      <workItem from="1756155815942" duration="8315000" />
+      <workItem from="1756245117492" duration="7296000" />
+      <workItem from="1758471449111" duration="4000" />
+      <workItem from="1759096876332" duration="3833000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

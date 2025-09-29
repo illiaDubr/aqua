@@ -8,13 +8,10 @@
       </database-info>
       <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
-      <user-name>user</user-name>
+      <user-name>root</user-name>
       <schema-mapping>
         <introspection-scope>
-          <node kind="schema">
-            <name qname="@" />
-            <name qname="aqua" />
-          </node>
+          <node kind="schema" qname="aqua" />
         </introspection-scope>
       </schema-mapping>
     </data-source>
