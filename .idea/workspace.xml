@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff92a93-1bfa-4187-8db4-477c686c5b7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9d56a0f5-85a9-4bc8-b6e9-7398f368edac.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9d56a0f5-85a9-4bc8-b6e9-7398f368edac.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/resources/js/views/OrderForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/resources/js/views/OrderForm.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aqua-taxi/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,6 +280,8 @@
       <workItem from="1756245117492" duration="7296000" />
       <workItem from="1758471449111" duration="4000" />
       <workItem from="1759096876332" duration="3833000" />
+      <workItem from="1759122131971" duration="69000" />
+      <workItem from="1759249825219" duration="15040000" />
     </task>
     <servers />
   </component>
