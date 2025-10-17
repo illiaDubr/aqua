@@ -143,6 +143,9 @@
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/react/socket" />
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/react/event-loop" />
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/laravel/reverb" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/psr/cache" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2">

@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eff92a93-1bfa-4187-8db4-477c686c5b7c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/aqua-taxi/app/Http/Controllers/OrderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/app/Http/Controllers/OrderController.php" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/.env" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/app/Http/Controllers/FactoryAuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/app/Http/Controllers/FactoryAuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/resources/js/views/CertificatesPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/resources/js/views/CertificatesPage.vue" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +41,7 @@
     &quot;accountId&quot;: &quot;68832472-d8b2-43d8-809d-3eb27c681621&quot;
   }
 }</component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Dev\php\php.exe">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../../php/php.exe">
     <include_path>
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/composer" />
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/psr/clock" />
@@ -160,6 +169,9 @@
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/react/socket" />
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/react/event-loop" />
       <path value="$PROJECT_DIR$/aqua-taxi/vendor/laravel/reverb" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/aqua-taxi/vendor/psr/cache" />
     </include_path>
   </component>
   <component name="ProjectColorInfo">{
@@ -173,6 +185,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PhpstormProjects/aqua/aqua-taxi/resources/js/assets&quot;,
@@ -181,7 +194,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Dev\\PhpStorm 2024.3.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\phpstorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -218,8 +231,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.25659.45" />
-        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.25659.45" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PS-252.25557.128" />
+        <option value="bundled-php-predefined-a98d8de5180a-ce40d0652d34-com.jetbrains.php.sharedIndexes-PS-252.25557.128" />
       </set>
     </attachedChunks>
   </component>
@@ -292,8 +305,15 @@
       <workItem from="1759986632526" duration="648000" />
       <workItem from="1760231107944" duration="1157000" />
       <workItem from="1760280383268" duration="4841000" />
+<<<<<<< Updated upstream
       <workItem from="1760403768023" duration="3485000" />
       <workItem from="1760632288942" duration="13027000" />
+=======
+      <workItem from="1760403768023" duration="3091000" />
+      <workItem from="1760597044288" duration="84000" />
+      <workItem from="1760597138760" duration="19226000" />
+      <workItem from="1760681098164" duration="3395000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
