@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d0be768-3023-49bd-ac8c-a5367509d861" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/.env" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/app/Http/Controllers/DriverOrderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/app/Http/Controllers/DriverOrderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/app/Http/Controllers/FactoryAuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/app/Http/Controllers/FactoryAuthController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/app/Models/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/app/Models/Order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/docker/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/docker/nginx/default.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/resources/js/views/CertificatesPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/resources/js/views/CertificatesPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/resources/js/views/OrderTabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/resources/js/views/OrderTabs.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "Merging main",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
