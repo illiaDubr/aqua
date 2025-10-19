@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8d0be768-3023-49bd-ac8c-a5367509d861" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqua-taxi/app/Models/Factory.php" beforeDir="false" afterPath="$PROJECT_DIR$/aqua-taxi/app/Models/Factory.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
